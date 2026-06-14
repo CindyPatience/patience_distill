@@ -1,0 +1,64 @@
+---
+title: "About Us"
+description: |
+  Bridging the gap between advanced systems engineering and sustainable solar solutions.
+---
+
+```{r mission-photo, out.width='100%', fig.align='center', echo=FALSE}
+knitr::include_graphics("roof.jpg")
+```
+
+## Our Mission
+
+At Elachy Systems Limited, we believe that the transition to clean energy is more than an environmental choice, it is a critical upgrade to corporate and residential operational resilience.
+
+We engineer and deliver high-performance solar-plus-storage energy ecosystems tailored to homes, businesses, and agricultural projects. By focusing on data-driven site assessments, precision engineering, and premium component sourcing, we build clean power systems that are reliable, predictable, and highly cost-effective.
+
+---
+
+```{r vision-photo, out.width='100%', fig.align='center', echo=FALSE}
+knitr::include_graphics("modern-skyscrapers.jpg")
+```
+
+## Our Vision
+
+Explore the principles, breakthroughs, and systems engineering insights that drive the transition to high-performance solar infrastructure, featuring exclusive behind-the-scenes coverage of our latest resilient energy deployments.
+
+---
+
+## Core Pillars of Expertise
+
+### 🏢 Commercial & Industrial Power Systems
+
+We help commercial developers and enterprise operations convert idle rooftop real estate into high-yield, clean power generation assets. Our systems drastically reduce Operational Expenditure (OpEx) while satisfying corporate carbon reduction targets.
+
+### 🚜 Agricultural & Resilient Off-Grid Solutions
+
+From high-efficiency solar water pumping setups to scalable off-grid microgrids, we design rugged systems engineered to secure local production and sustain remote livelihoods.
+
+### 🏡 Intelligent Smart Home Storage
+
+We deploy premium, space-optimized energy storage assets (like our signature Megatank and Elachy Systems modular lineups) that deliver reliable 24/7 backup power, protecting families from grid instability and lowering utility bills through intelligent peak load-shifting.
+
+---
+
+```{r leadership-photo, out.width='100%', fig.align='center', echo=FALSE}
+knitr::include_graphics("CopyOfcollins.jpg")
+```
+
+## Leadership & Vision
+
+Collins Oketch leads the technical strategy and engineering efforts at Elachy Systems Limited. As the Founder and Project Coordinator, he launched Elachy with a deep focus on technical innovation and sustainable systems, aiming to build resilient, decentralized infrastructure that empowers local communities and scales commercial capabilities. Through precise energy modeling, data-driven load profiling, and a commitment to engineering excellence, Collins ensures every deployed solution achieves maximum output, maximum reliability, and long-term durability.
+
+---
+
+## Technical Audits & Inquiries
+
+Have an engineering challenge or ready to transition your commercial facility to high-efficiency solar infrastructure? Let's design a sustainable utility system built for your exact load profile.
+
+Email: sales@elasystems.com
+
+Headquarters: Nairobi, Kenya
+
+
+

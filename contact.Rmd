@@ -1,0 +1,98 @@
+---
+title: "Contact Us"
+description: |
+  Get in touch with the engineering and management team at Elachy Systems.
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<style>
+/* Native styling matching your clean HTML form concept */
+.custom-contact-form p {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 0.85rem;
+  color: #333;
+  margin-top: 10px;
+}
+.custom-contact-form input[type='text'],
+.custom-contact-form input[type='email'],
+.custom-contact-form input[type='tel'],
+.custom-contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+.custom-contact-form input[type='submit'] {
+  background-color: #e60000; /* Clean accent red */
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  width: 100%;
+  font-size: 1rem;
+  margin-top: 15px;
+}
+.custom-contact-form input[type='submit']:hover {
+  background-color: #cc0000;
+}
+</style>
+
+::: {.l-page}
+:::: {.d-grid style="grid-template-columns: 1.1fr 0.9fr; grid-gap: 60px;"}
+
+::: {.custom-contact-form}
+### Leave us a Message
+
+<form method="POST" action="https://formspree.io/f/YOUR_FORMSPREEE_ID">
+  
+  <p>FIRST NAME</p>
+  <input type="text" name="first_name" required />
+  
+  <p>LAST NAME</p>
+  <input type="text" name="last_name" required />
+
+  <p>EMAIL ADDRESS</p>
+  <input type="email" name="email" required />
+
+  <p>PHONE NUMBER</p>
+  <input type="tel" name="phone" />
+
+  <p>MESSAGE</p>
+  <textarea name="message" rows="6" required></textarea>
+
+  <input type="submit" value="SUBMIT" />
+</form>
+:::
+
+::: {}
+### Direct Inquiries
+
+We welcome project inquiries, corporate consultations, and partnership discussions. Reach out to our technical team directly via email or phone, and we will get back to you within 24 hours.
+
+<br>
+
+* **General Engineering Inquiries:** [sales@elasystems.com](mailto:sales@elasystems.com)
+* **Direct Mobile/WhatsApp:** +254 701 108204
+
+<br>
+
+### Head Office Address
+
+* **Elachy Systems Limited**
+* Amani House, Magadi Road
+* Nairobi, Kenya
+ **Tel:** +254 701 108204
+ **Email:** sales@elasystems.com
+ **Web:** [www.elachysystems.com](https://www.elachysystems.com)
+:::
+
+::::
+:::

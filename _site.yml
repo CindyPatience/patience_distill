@@ -1,0 +1,30 @@
+name: "website"
+title: "Elachy Systems Limited"
+description: |
+  Elachy Systems Limited
+output_dir: "_site"
+navbar:
+  logo:
+    image: logo.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About Us"
+      href: about.html
+    - text: "Our Services"
+      href: services.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Contact Us"
+      href: contact.html
+    - icon: fa fa-github
+      href: https://github.com/Charles3468
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/company/109145229/
+    - icon: fa fa-instagram
+      href: https://instagram.com/_duasa_
+output:
+  distill::distill_article:
+    theme: "theme.css"
+    include:
+      after_body: footer.html

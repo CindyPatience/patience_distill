@@ -1,0 +1,49 @@
+---
+title: "Elachy Systems Limited"
+description: |
+  Providing clean, reliable, and affordable solar energy systems. Custom engineering, installation, and battery storage solutions for homes and businesses.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](big city.jpg){width=200}
+
+## Transforming Energy Challenges Into Operational Power
+
+The East African energy landscape demands absolute reliability. At Elachy Systems Limited, we bridge the gap between volatile utility supply and uninterrupted business operations. We design, engineer, and deploy rugged solar-plus-storage infrastructure designed to give you total control over your utility expenses and long-term asset performance.
+
+Rather than offering generic configurations, we evaluate every facility from a holistic systems engineering perspective, ensuring your physical asset operates at peak electrical efficiency for decades.
+
+---
+
+## From Feasibility to Grid Integration
+
+Our physical deployments turn structural spaces into high-yield power generating stations. We specialize in optimizing structural load weight distribution and electrical string topography, ensuring that our arrays seamlessly interface with localized infrastructure without introducing system stress.
+
+```{r High-impact, out.width='100%', fig.align='center', echo=FALSE}
+knitr::include_graphics("solar-powerstation.jpg")
+```
+
+---
+
+## Strict Hardware Standards & Mechanical Integrity
+
+Long-term asset survival requires uncompromising component selection. Every system we anchor utilizes advanced tier-one photovoltaic modules and superior mounting hardware capable of withstanding intense environmental exposure and seasonal wind loads. By controlling every stage of structural engineering and physical assembly, we ensure absolute electrical safety and optimal thermal performance across every single array.
+
+
+```{r modern-impact, out.width='100%', fig.align='center', echo=FALSE}
+knitr::include_graphics("solar-panels.jpg")
+```
+
+---
+
+## Ready to Transition Your Facility?
+
+Let's design a sustainable, reliable utility system built for your exact operational requirements.
+
+Schedule a Technical Audit or contact our Nairobi engineering office directly at sales@elasystems.com.
+
