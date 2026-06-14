@@ -2,7 +2,7 @@ name: "website"
 title: "Elachy Systems Limited"
 description: |
   Elachy Systems Limited
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   logo:
     image: logo.png
